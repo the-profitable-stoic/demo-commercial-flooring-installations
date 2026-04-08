@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "Commercial Flooring Installations",
+    "phone": "+19513102542",
+    "category": "flooring installer",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach's Flooring Installation Experts",
+      "heroSubline": "Commercial Flooring Installations delivers durable, beautiful flooring solutions. Serving Los Angeles County with quality and precision.",
+      "aboutTitle": "Decades of Flooring Excellence in Long Beach",
+      "aboutText": [
+        "Commercial Flooring Installations started with a simple goal: to provide Long Beach businesses with flooring solutions that last. We've grown from a small team to a respected name, known for our commitment to quality and our deep understanding of the unique needs of commercial spaces.",
+        "Our approach is straightforward: understand your vision, recommend the best materials for your budget and needs, and execute the installation flawlessly. We value clear communication, meticulous preparation, and unwavering attention to detail on every project.",
+        "We're proud to be part of the Long Beach community. We source materials locally whenever possible, support local businesses, and strive to minimize our environmental impact. Our success is intertwined with the success of the businesses we serve."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision and durability are our hallmarks. We guarantee a flawless installation every time."
+        },
+        {
+          "title": "Wide Selection",
+          "description": "From resilient vinyl to elegant hardwood, we offer a diverse range of flooring options to suit any commercial space."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest-quality materials, built to withstand heavy traffic and the demands of commercial environments."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the specific flooring challenges in Long Beach, from moisture mitigation to earthquake preparedness."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Contact Commercial Flooring Installations for a free consultation and estimate. Let's build something solid together."
+    },
+    "services": [
+      {
+        "slug": "vinyl-flooring-installation",
+        "name": "Vinyl Flooring Installation",
+        "shortDescription": "Durable and versatile vinyl flooring solutions for high-traffic commercial spaces.",
+        "description": "Vinyl flooring is a popular choice for commercial spaces in Long Beach due to its durability, water resistance, and ease of maintenance. We specialize in the expert installation of all types of vinyl flooring, including luxury vinyl tile (LVT), sheet vinyl, and vinyl composition tile (VCT). Our experienced installers ensure a seamless, long-lasting finish that can withstand heavy foot traffic and the demands of a busy commercial environment.\n\nWe begin with thorough subfloor preparation to ensure a smooth and level surface. This is crucial for preventing future problems such as buckling or cracking. We then carefully measure and cut the vinyl to minimize waste and ensure a precise fit. Our team is skilled in various installation techniques, including glue-down, click-lock, and loose-lay methods, depending on the specific product and application.\n\nWhether you need vinyl flooring for a retail store, office, or healthcare facility, we have the expertise and resources to deliver exceptional results. We offer a wide selection of vinyl flooring options in various colors, patterns, and textures to match your brand and aesthetic. We also provide ongoing maintenance and repair services to keep your vinyl flooring looking its best for years to come.",
+        "process": [
+          "Step 1: Site assessment and material selection",
+          "Step 2: Subfloor preparation and leveling",
+          "Step 3: Precise cutting and fitting of vinyl flooring",
+          "Step 4: Professional installation using appropriate adhesives or locking systems"
+        ],
+        "benefits": [
+          "Exceptional durability",
+          "Water resistance",
+          "Easy maintenance",
+          "Wide range of design options"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl flooring installation take?",
+            "answer": "Installation time varies depending on the size of the space and the complexity of the project. We'll provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Is vinyl flooring suitable for high-moisture areas?",
+            "answer": "Yes, vinyl flooring is highly water-resistant, making it an excellent choice for restrooms, kitchens, and other areas prone to moisture."
+          },
+          {
+            "question": "What is the lifespan of vinyl flooring?",
+            "answer": "With proper maintenance, vinyl flooring can last for 10-20 years or more in a commercial setting."
+          }
+        ]
+      },
+      {
+        "slug": "hardwood-flooring-installation",
+        "name": "Hardwood Flooring Installation",
+        "shortDescription": "Timeless elegance and lasting value with our expert hardwood flooring installation services.",
+        "description": "Hardwood flooring adds a touch of sophistication and warmth to any commercial space. Commercial Flooring Installations specializes in the installation of solid hardwood, engineered hardwood, and bamboo flooring. We understand the unique challenges of installing hardwood in a commercial setting, such as heavy foot traffic and the need for a durable, long-lasting finish.\n\nOur experienced installers take great care in preparing the subfloor to ensure a level and stable base for the hardwood. We use only the highest-quality adhesives and fasteners to ensure a secure and long-lasting installation. We also offer a variety of finishing options to protect the hardwood from wear and tear and enhance its natural beauty. We are familiar with the challenges of Long Beach's climate, and we take steps to mitigate the effects of humidity and temperature fluctuations on hardwood flooring.\n\nWhether you're looking to create a classic, traditional atmosphere or a modern, contemporary look, we have the expertise and resources to deliver exceptional results. We work with a wide range of hardwood species, including oak, maple, walnut, and cherry, to match your specific design preferences. We also offer hardwood refinishing services to restore the beauty of existing hardwood floors.",
+        "process": [
+          "Step 1: Moisture testing and subfloor preparation",
+          "Step 2: Acclimation of hardwood flooring to the environment",
+          "Step 3: Precise installation using nails, staples, or adhesives",
+          "Step 4: Sanding, staining, and finishing for a durable and beautiful surface"
+        ],
+        "benefits": [
+          "Timeless elegance",
+          "Increased property value",
+          "Durability and longevity",
+          "Variety of wood species and finishes"
+        ],
+        "faq": [
+          {
+            "question": "Can hardwood flooring be installed over concrete?",
+            "answer": "Yes, engineered hardwood can be installed over concrete with proper subfloor preparation and a moisture barrier."
+          },
+          {
+            "question": "How often should hardwood floors be refinished?",
+            "answer": "Hardwood floors should be refinished every 7-10 years, depending on the amount of traffic and wear."
+          },
+          {
+            "question": "What is the best way to clean hardwood floors?",
+            "answer": "Use a damp mop and a pH-neutral cleaner specifically designed for hardwood floors. Avoid using excessive water or harsh chemicals."
+          }
+        ]
+      },
+      {
+        "slug": "carpet-installation",
+        "name": "Carpet Installation",
+        "shortDescription": "Comfortable and cost-effective carpet solutions for offices, retail spaces, and more.",
+        "description": "Carpet remains a popular choice for many commercial spaces due to its comfort, sound absorption, and cost-effectiveness. Commercial Flooring Installations offers a wide selection of commercial-grade carpets in various styles, colors, and patterns. We specialize in the installation of broadloom carpet, carpet tiles, and custom-designed carpets.\n\nOur experienced installers understand the importance of proper subfloor preparation and precise installation techniques. We use only the highest-quality adhesives and seaming tapes to ensure a secure and long-lasting installation. We also offer a variety of carpet padding options to enhance comfort and extend the life of your carpet.\n\nWhether you need carpet for a large office building, a retail store, or a hospitality venue, we have the expertise and resources to deliver exceptional results. We work closely with our clients to select the right carpet for their specific needs and budget. We also offer ongoing maintenance and repair services to keep your carpet looking its best for years to come.",
+        "process": [
+          "Step 1: Subfloor inspection and preparation",
+          "Step 2: Precise measurement and cutting of carpet",
+          "Step 3: Professional installation using adhesives or tack strips",
+          "Step 4: Seaming and stretching for a smooth and wrinkle-free finish"
+        ],
+        "benefits": [
+          "Enhanced comfort and sound absorption",
+          "Wide range of styles and colors",
+          "Cost-effective flooring solution",
+          "Improved indoor air quality with proper maintenance"
+        ],
+        "faq": [
+          {
+            "question": "What is the best type of carpet for high-traffic areas?",
+            "answer": "Nylon and olefin carpets are known for their durability and resistance to wear and tear."
+          },
+          {
+            "question": "How often should commercial carpets be cleaned?",
+            "answer": "Commercial carpets should be professionally cleaned every 6-12 months, depending on the amount of traffic and soiling."
+          },
+          {
+            "question": "Can carpet tiles be replaced individually?",
+            "answer": "Yes, carpet tiles offer the flexibility to replace damaged or stained tiles without replacing the entire floor."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring-installation",
+        "name": "Tile Flooring Installation",
+        "shortDescription": "Durable and stylish tile flooring options for commercial kitchens, restrooms, and more.",
+        "description": "Tile flooring is an excellent choice for commercial spaces that require durability, water resistance, and easy maintenance. Commercial Flooring Installations specializes in the installation of ceramic tile, porcelain tile, and natural stone tile. We understand the unique challenges of installing tile in a commercial setting, such as heavy foot traffic, exposure to moisture, and the need for a slip-resistant surface.\n\nOur experienced installers take great care in preparing the subfloor to ensure a level and stable base for the tile. We use only the highest-quality mortars and grouts to ensure a secure and long-lasting installation. We also offer a variety of tile patterns and designs to match your specific aesthetic preferences.\n\nWhether you need tile flooring for a commercial kitchen, a restroom, or a retail store, we have the expertise and resources to deliver exceptional results. We work closely with our clients to select the right tile for their specific needs and budget. We also offer ongoing maintenance and repair services to keep your tile flooring looking its best for years to come.",
+        "process": [
+          "Step 1: Subfloor preparation and leveling",
+          "Step 2: Layout and precise cutting of tiles",
+          "Step 3: Professional installation using mortar",
+          "Step 4: Grouting and sealing for a water-resistant and durable finish"
+        ],
+        "benefits": [
+          "Exceptional durability and water resistance",
+          "Easy to clean and maintain",
+          "Wide range of styles and designs",
+          "Slip-resistant options available"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between ceramic and porcelain tile?",
+            "answer": "Porcelain tile is denser and more water-resistant than ceramic tile, making it a better choice for high-moisture areas."
+          },
+          {
+            "question": "How often should tile grout be sealed?",
+            "answer": "Tile grout should be sealed every 1-2 years to prevent staining and water damage."
+          },
+          {
+            "question": "What is the best way to clean tile floors?",
+            "answer": "Use a pH-neutral cleaner and a damp mop to clean tile floors. Avoid using abrasive cleaners or scouring pads."
+          }
+        ]
+      },
+      {
+        "slug": "concrete-flooring-services",
+        "name": "Concrete Flooring Services",
+        "shortDescription": "Modern and durable concrete flooring solutions for industrial and commercial spaces.",
+        "description": "Concrete flooring offers a modern and industrial aesthetic while providing exceptional durability and longevity. Commercial Flooring Installations specializes in concrete polishing, staining, and epoxy coating for commercial spaces. We transform ordinary concrete floors into stunning and functional surfaces.\n\nOur experienced technicians use advanced equipment and techniques to grind, polish, and seal concrete floors to a high-gloss finish. We offer a variety of staining and dyeing options to customize the color and appearance of your concrete floors. We also install epoxy coatings to provide added protection and chemical resistance.\n\nWhether you need concrete flooring for a warehouse, a manufacturing plant, or a retail store, we have the expertise and resources to deliver exceptional results. We work closely with our clients to select the right concrete flooring solution for their specific needs and budget. We also offer ongoing maintenance and repair services to keep your concrete floors looking their best for years to come.",
+        "process": [
+          "Step 1: Concrete surface preparation and grinding",
+          "Step 2: Staining or dyeing to achieve desired color",
+          "Step 3: Polishing to a high-gloss finish",
+          "Step 4: Sealing for protection and durability"
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Modern and industrial aesthetic",
+          "Low maintenance",
+          "Customizable colors and finishes"
+        ],
+        "faq": [
+          {
+            "question": "Is polished concrete slippery?",
+            "answer": "Polished concrete can be slippery when wet, but slip-resistant additives can be added to the sealant to improve traction."
+          },
+          {
+            "question": "How long does polished concrete last?",
+            "answer": "With proper maintenance, polished concrete can last for decades."
+          },
+          {
+            "question": "Can polished concrete be stained or dyed?",
+            "answer": "Yes, polished concrete can be stained or dyed to achieve a wide range of colors and effects."
+          }
+        ]
+      },
+      {
+        "slug": "epoxy-flooring",
+        "name": "Epoxy Flooring",
+        "shortDescription": "Seamless, durable, and chemical-resistant epoxy flooring for demanding environments.",
+        "description": "For commercial spaces needing exceptional durability and resistance to chemicals, stains, and heavy impact, epoxy flooring is the ideal solution. Commercial Flooring Installations provides professional epoxy flooring installations for businesses throughout Long Beach. We understand the unique demands placed on floors in industrial settings, warehouses, and commercial kitchens, and we tailor our epoxy solutions to meet those challenges.\n\nOur process begins with thorough surface preparation, ensuring the concrete is clean, dry, and properly profiled for optimal epoxy adhesion. We offer a range of epoxy coatings, including self-leveling, chemical-resistant, and decorative options. Our expert installers apply the epoxy with precision, creating a seamless, durable surface that can withstand heavy traffic, spills, and harsh cleaning agents.\n\nWe work closely with our clients to determine the best epoxy system for their specific needs, considering factors such as traffic volume, chemical exposure, and aesthetic preferences. Our goal is to provide a flooring solution that not only looks great but also provides long-lasting protection and value.",
+        "process": [
+          "Step 1: Concrete surface preparation (grinding, cleaning)",
+          "Step 2: Application of epoxy primer",
+          "Step 3: Mixing and application of epoxy coating",
+          "Step 4: Application of topcoat (optional)"
+        ],
+        "benefits": [
+          "Seamless and hygienic surface",
+          "Exceptional durability and impact resistance",
+          "Chemical resistance",
+          "Easy to clean and maintain"
+        ],
+        "faq": [
+          {
+            "question": "How long does epoxy flooring last?",
+            "answer": "With proper maintenance, epoxy flooring can last for 10-20 years or more."
+          },
+          {
+            "question": "Is epoxy flooring slippery?",
+            "answer": "Epoxy flooring can be slippery when wet, but slip-resistant additives can be incorporated into the coating."
+          },
+          {
+            "question": "Can epoxy flooring be applied over existing tile?",
+            "answer": "Epoxy flooring can be applied over existing tile, but the tile must be properly prepared and primed."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring-installation",
+        "name": "Laminate Flooring Installation",
+        "shortDescription": "Affordable and stylish laminate flooring options for a variety of commercial applications.",
+        "description": "Laminate flooring offers an attractive and cost-effective alternative to hardwood or tile. Commercial Flooring Installations provides expert laminate flooring installation services for businesses in Long Beach and the surrounding areas. Laminate is a durable and versatile option that can mimic the look of natural materials at a fraction of the cost, making it ideal for budget-conscious businesses.\n\nOur experienced installers ensure a smooth and seamless installation by properly preparing the subfloor and using precise cutting and fitting techniques. We offer a wide selection of laminate flooring options in various styles, colors, and textures to match your brand aesthetic. Our team is familiar with the unique challenges of installing laminate in commercial spaces, such as managing moisture and ensuring proper expansion gaps.\n\nWhether you're looking to upgrade the flooring in your office, retail store, or restaurant, we can help you find the perfect laminate flooring solution to meet your needs and budget. We pride ourselves on delivering high-quality workmanship and exceptional customer service on every project.",
+        "process": [
+          "Step 1: Subfloor inspection and preparation",
+          "Step 2: Installation of underlayment",
+          "Step 3: Precise cutting and fitting of laminate planks",
+          "Step 4: Installation of baseboards and trim"
+        ],
+        "benefits": [
+          "Affordable",
+          "Durable and scratch-resistant",
+          "Easy to clean and maintain",
+          "Wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring water-resistant?",
+            "answer": "While some laminate flooring is water-resistant, it is not waterproof. It's important to clean up spills promptly to prevent damage."
+          },
+          {
+            "question": "Can laminate flooring be installed in commercial kitchens?",
+            "answer": "Laminate flooring is generally not recommended for commercial kitchens due to the high risk of moisture exposure."
+          },
+          {
+            "question": "How long does laminate flooring last?",
+            "answer": "With proper care and maintenance, laminate flooring can last for 10-20 years in a commercial setting."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "Commercial Flooring Installations is proud to offer comprehensive flooring services to businesses throughout Los Angeles, CA. From Downtown to Hollywood and beyond, we understand the diverse needs of LA's commercial spaces. Our team is experienced in installing a wide variety of flooring types, including hardwood, tile, carpet, and resilient flooring, ensuring a perfect fit for your business's style and functionality.\n\nLos Angeles is known for its architectural diversity, particularly its prevalence of 1920s Spanish Colonial Revival buildings. We have extensive experience working within the constraints of these unique spaces, ensuring historically sensitive and code-compliant flooring installations. Whether you're renovating an office, retail space, or restaurant, we're committed to delivering exceptional results that enhance your property's value and appeal.",
+        "localContext": "Los Angeles, with a population around 3.9 million, features a warm, dry climate year-round and architectural styles like 1920s Spanish Colonial Revival.",
+        "nearbyAreas": [
+          "Santa Monica",
+          "Beverly Hills",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "Commercial Flooring Installations provides expert flooring installation services to businesses in Pasadena, CA. We recognize the unique character of Pasadena, known for its beautiful architecture and vibrant commercial districts. Our team is dedicated to providing tailored flooring solutions to meet the specific needs of your business.\n\nPasadena is characterized by its charming 1910s-30s Craftsman bungalows. We have experience working with these older buildings, ensuring that new flooring installations complement their existing architectural details. We offer a wide range of flooring options, from classic hardwood to modern resilient flooring, to suit your business's style and budget.",
+        "localContext": "Pasadena, home to approximately 138,000 people, showcases 1910s-30s Craftsman bungalows and a warm, dry climate throughout the year.",
+        "nearbyAreas": [
+          "Altadena",
+          "San Marino",
+          "South Pasadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "Commercial Flooring Installations is your trusted partner for commercial flooring solutions in Irvine, CA. As a master-planned community, Irvine boasts a diverse range of commercial properties, each with its own unique flooring requirements. We are committed to delivering high-quality installations that meet the demands of your business.\n\nIrvine's homes, primarily built from the 1970s to the present, often feature modern design elements. We offer a wide selection of flooring options to complement these contemporary spaces, including luxury vinyl tile, carpet tile, and polished concrete. Our experienced team will ensure a seamless installation process, minimizing disruption to your business operations.",
+        "localContext": "Irvine, a master-planned community with a population near 310,000, features homes built from the 1970s-present and a warm, dry climate.",
+        "nearbyAreas": [
+          "Tustin",
+          "Lake Forest",
+          "Newport Beach"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "Commercial Flooring Installations offers comprehensive commercial flooring services to businesses in Santa Clarita, CA. As a rapidly growing city with many master-planned communities, Santa Clarita requires durable and stylish flooring solutions for its diverse commercial spaces. We are dedicated to providing top-quality installations that meet the specific needs of your business.\n\nSanta Clarita features newer homes built from the 1990s-2020s. We offer a variety of modern flooring options to complement these contemporary designs, including hardwood, laminate, and resilient flooring. Our experienced team will work closely with you to select the perfect flooring solution for your business, ensuring a beautiful and long-lasting result.",
+        "localContext": "Santa Clarita, a city of around 230,000 residents, is characterized by master-planned communities built in the 1990s-2020s and a warm, dry climate.",
+        "nearbyAreas": [
+          "Valencia",
+          "Canyon Country",
+          "Saugus"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "Commercial Flooring Installations is proud to serve the commercial flooring needs of businesses in Torrance, CA. Known for its mix of industrial and commercial properties, Torrance requires flooring solutions that are both durable and aesthetically pleasing. We are committed to providing exceptional service and high-quality installations to meet the demands of your business.\n\nTorrance features many homes built in the 1950s and 1960s. We offer a variety of flooring options that complement these mid-century modern designs, including vinyl composition tile, sheet vinyl, and commercial-grade carpet. Our experienced team will ensure a seamless installation process, minimizing disruption to your business operations.",
+        "localContext": "Torrance, with a population of approximately 145,000, is known for its 1950s-60s post-war homes and a warm, dry climate.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Carson",
+          "Gardena"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "Commercial Flooring Installations is your local expert for all commercial flooring needs in Long Beach, CA. From the bustling downtown area to the vibrant waterfront, we understand the diverse requirements of Long Beach businesses. We offer a wide range of flooring solutions to suit any commercial space, ensuring durability, aesthetics, and functionality.\n\nLong Beach features a diverse architectural landscape, with a mix of historic buildings and modern developments. We have experience working with a variety of building styles, providing tailored flooring solutions that complement their unique characteristics. Whether you're renovating an office, retail space, or restaurant, we're committed to delivering exceptional results.",
+        "localContext": "Long Beach boasts a diverse architectural style and a bustling commercial environment.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "Commercial Flooring Installations proudly serves the commercial flooring needs of Anaheim, CA. From the Disneyland Resort area to the industrial zones, Anaheim's diverse commercial landscape demands versatile and durable flooring solutions. We are dedicated to providing high-quality installations that meet the specific needs of your business.\n\nAnaheim features a mix of older and newer buildings, requiring adaptable flooring solutions. We offer a wide range of flooring options, including epoxy coatings, polished concrete, and commercial-grade carpet, to suit any commercial space. Our experienced team will work closely with you to select the perfect flooring solution for your business.",
+        "localContext": "Anaheim is a diverse city with both tourism and industry, requiring versatile flooring solutions.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Orange",
+          "Garden Grove"
+        ]
+      },
+      {
+        "city": "Riverside",
+        "slug": "riverside-ca",
+        "state": "CA",
+        "content": "Commercial Flooring Installations is your go-to provider for commercial flooring solutions in Riverside, CA. With a blend of historical buildings and modern developments, Riverside requires flooring options that are both stylish and durable. We are committed to delivering exceptional service and high-quality installations to businesses throughout the city.\n\nRiverside features a variety of architectural styles, reflecting its rich history and ongoing growth. We offer a wide range of flooring options, from hardwood to tile to resilient flooring, to complement any commercial space. Our experienced team will ensure a seamless installation process, minimizing disruption to your business operations.",
+        "localContext": "Riverside presents a mix of historical and modern architecture, requiring adaptable flooring solutions.",
+        "nearbyAreas": [
+          "Moreno Valley",
+          "Corona",
+          "Jurupa Valley"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-ca",
+        "state": "CA",
+        "content": "Commercial Flooring Installations delivers premier commercial flooring services to businesses in Glendale, CA. Known for its vibrant business district and diverse commercial properties, Glendale requires flooring solutions that are both aesthetically pleasing and built to last. We are dedicated to providing top-quality installations that meet the unique needs of your business.\n\nGlendale features a mix of architectural styles, from historic buildings to modern high-rises. We offer a wide selection of flooring options to complement these diverse spaces, including luxury vinyl tile, commercial-grade carpet, and polished concrete. Our experienced team will ensure a seamless installation process, minimizing downtime for your business.",
+        "localContext": "Glendale boasts a vibrant business district with a variety of commercial properties, demanding durable and attractive flooring.",
+        "nearbyAreas": [
+          "Burbank",
+          "Pasadena",
+          "Los Angeles"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Ricardo M.",
+        "rating": 5,
+        "service": "Vinyl Flooring Installation",
+        "text": "Commercial Flooring Installations did an amazing job installing vinyl flooring in my new Long Beach cafe! The team was professional, efficient, and the floors look fantastic. They even advised on the best slip-resistant options for a busy kitchen. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "A. Thompson",
+        "rating": 4,
+        "service": "Carpet Installation",
+        "text": "We hired Commercial Flooring Installations to replace the carpet in our Pasadena office. The installation was quick, and the new carpet looks great, but there were a few minor snags that needed to be addressed. Overall, a good experience.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Lisa K.",
+        "rating": 5,
+        "service": "Hardwood Flooring Installation",
+        "text": "We chose Commercial Flooring Installations to install hardwood floors in our Belmont Shore boutique. The results are stunning! The floors are flawlessly installed and add a touch of elegance to the entire space. The crew was respectful and very tidy.",
+        "date": "2025-01-05"
+      },
+      {
+        "name": "David S.",
+        "rating": 5,
+        "service": "Epoxy Flooring",
+        "text": "Commercial Flooring Installations transformed our Torrance warehouse with a durable and seamless epoxy floor. The team was knowledgeable and efficient, and the new floor is incredibly easy to clean. Exceeded our expectations!",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Michelle P.",
+        "rating": 4,
+        "service": "Tile Flooring Installation",
+        "text": "I hired them to install tile in my restaurant's restrooms. The tile work is great and looks very professional. There was a small delay in getting the job started, but they communicated well and made up for it with the quality of their work.",
+        "date": "2024-07-22"
+      },
+      {
+        "name": "Brian L.",
+        "rating": 5,
+        "service": "Concrete Flooring Services",
+        "text": "Our new polished concrete floors are exactly what we wanted for our retail location. Commercial flooring installations did a fantastic job and were very responsive to our needs. The floors look great and are easy to maintain.",
+        "date": "2025-02-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Long Beach Flooring Installation | Commercial",
+        "description": "Expert commercial flooring installation in Long Beach, CA. Vinyl, hardwood, carpet, tile, epoxy & concrete flooring solutions."
+      },
+      "about": {
+        "title": "About Us | Commercial Flooring Installations",
+        "description": "Learn about Commercial Flooring Installations' commitment to quality commercial flooring in Long Beach and Los Angeles County."
+      },
+      "services": {
+        "title": "Commercial Flooring Services | Long Beach, CA",
+        "description": "Comprehensive commercial flooring services: vinyl, hardwood, carpet, tile, epoxy, and concrete. Serving Long Beach and surrounding areas."
+      },
+      "contact": {
+        "title": "Contact Us | Commercial Flooring Installations",
+        "description": "Contact Commercial Flooring Installations for a free quote on your commercial flooring project in Long Beach and Los Angeles County."
+      },
+      "reviews": {
+        "title": "Reviews | Commercial Flooring Installations",
+        "description": "Read what our satisfied customers are saying about Commercial Flooring Installations' commercial flooring services in Long Beach."
+      },
+      "service-areas": {
+        "title": "Service Areas | Commercial Flooring",
+        "description": "Commercial Flooring Installations serves Long Beach, Los Angeles, Pasadena, Irvine, Santa Clarita & Torrance, CA."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-flooring-installation": "/images/service-vinyl-flooring-installation.webp",
+      "hardwood-flooring-installation": "/images/service-hardwood-flooring-installation.webp",
+      "carpet-installation": "/images/service-carpet-installation.webp",
+      "tile-flooring-installation": "/images/service-tile-flooring-installation.webp",
+      "concrete-flooring-services": "/images/service-concrete-flooring-services.webp",
+      "epoxy-flooring": "/images/service-epoxy-flooring.webp",
+      "laminate-flooring-installation": "/images/service-laminate-flooring-installation.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-flooring-installation": {
+        "src": "/images/service-vinyl-flooring-installation.webp",
+        "srcset": "/images/service-vinyl-flooring-installation-400w.webp 400w, /images/service-vinyl-flooring-installation-800w.webp 800w, /images/service-vinyl-flooring-installation-1200w.webp 1200w, /images/service-vinyl-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "hardwood-flooring-installation": {
+        "src": "/images/service-hardwood-flooring-installation.webp",
+        "srcset": "/images/service-hardwood-flooring-installation-400w.webp 400w, /images/service-hardwood-flooring-installation-800w.webp 800w, /images/service-hardwood-flooring-installation-1200w.webp 1200w, /images/service-hardwood-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "carpet-installation": {
+        "src": "/images/service-carpet-installation.webp",
+        "srcset": "/images/service-carpet-installation-400w.webp 400w, /images/service-carpet-installation-800w.webp 800w, /images/service-carpet-installation-1200w.webp 1200w, /images/service-carpet-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring-installation": {
+        "src": "/images/service-tile-flooring-installation.webp",
+        "srcset": "/images/service-tile-flooring-installation-400w.webp 400w, /images/service-tile-flooring-installation-800w.webp 800w, /images/service-tile-flooring-installation-1200w.webp 1200w, /images/service-tile-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "concrete-flooring-services": {
+        "src": "/images/service-concrete-flooring-services.webp",
+        "srcset": "/images/service-concrete-flooring-services-400w.webp 400w, /images/service-concrete-flooring-services-800w.webp 800w, /images/service-concrete-flooring-services-1200w.webp 1200w, /images/service-concrete-flooring-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "epoxy-flooring": {
+        "src": "/images/service-epoxy-flooring.webp",
+        "srcset": "/images/service-epoxy-flooring-400w.webp 400w, /images/service-epoxy-flooring-800w.webp 800w, /images/service-epoxy-flooring-1200w.webp 1200w, /images/service-epoxy-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring-installation": {
+        "src": "/images/service-laminate-flooring-installation.webp",
+        "srcset": "/images/service-laminate-flooring-installation-400w.webp 400w, /images/service-laminate-flooring-installation-800w.webp 800w, /images/service-laminate-flooring-installation-1200w.webp 1200w, /images/service-laminate-flooring-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
